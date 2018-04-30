@@ -1,0 +1,8 @@
+red: punane
+white: punane
+green: punane
+yellow: kollane
+north:
+south:
+east:
+west:
