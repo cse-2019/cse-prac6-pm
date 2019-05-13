@@ -2,7 +2,7 @@ red: punane
 white: punane
 green: punane
 yellow: kollane
-north:
-south:
-east:
-west:
+north: pıhi
+south: lıuna
+east: ida
+west: l‰‰s
