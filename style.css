@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    font: 15px serif;
-    color: #222;
+    font: 15px sans-serif;
+    color: #fff;
     background: white;
 }
 
@@ -12,15 +12,15 @@ body {
 }
 
 h1 {
-    font-weight: normal;
-    font-size: 1em;
+    font-weight: bold;
+    font-size: 1.5em;
     font-style: italic;
-    text-decoration: underline;
+    text-decoration: none;
     color: pink;
 }
 
 .centered {
-
+	text-align: center;
 }
 
 .button {
