@@ -9,6 +9,7 @@ body {
     display: block;
     width: 175px;
     margin: 0;
+    border: 10px solid red;
 }
 
 h1 {
