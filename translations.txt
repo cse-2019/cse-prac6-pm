@@ -1,6 +1,6 @@
 red: punane
-white: punane
-green: punane
+white: valge
+green: roheline
 yellow: kollane
 north: põhi
 south: lõuna
