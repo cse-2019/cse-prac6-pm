@@ -29,6 +29,6 @@ h1 {
     padding: 18px;
     text-transform: uppercase;
     border: 1ps solid currentColor;
-    border-radius: 3px;
+    border-radius: 100%;
     margin: 40px 0;
 }
