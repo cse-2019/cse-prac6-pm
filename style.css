@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    font: 15px serif;
-    color: #222;
+    font:  15px sans-serif;
+    color: #fff;
     background: hotpink;
 }
 
@@ -9,25 +9,26 @@ body {
     display: block;
     width: 175px;
     margin: 0;
+    border: 10px solid red;
 }
 
 h1 {
-    font-weight: normal;
-    font-size: 1em;
+    font-weight: bold;
+    font-size: 1.5em;
     font-style: normal;
-    text-decoration: underline;
+    text-decoration: none;
     color: pink;
 }
 
 .centered {
-
+	text-align: center;
 }
 
 .button {
     display: inline-block;
-    padding: 10px;
+    padding: 18px;
     text-transform: uppercase;
     border: 1ps solid currentColor;
-    border-radius: 3px;
-    margin: 0;
+    border-radius: 100%;
+    margin: 40px 0;
 }

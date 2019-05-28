@@ -1,8 +1,8 @@
 red: punane
-white: punane
-green: punane
+white: valge
+green: roheline
 yellow: kollane
-north:
-south:
-east:
-west:
+north: pıhi
+south: lıuna
+east: ida
+west: l‰‰s
