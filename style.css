@@ -2,19 +2,20 @@ body {
     margin: 0;
     font: 16px serif;
     color: #fff;
-    background: white;
+    background: hotpink;
 }
 
 .logo {
     display: block;
     width: 175px;
     margin: 0;
+    border: 10px solid red;
 }
 
 h1 {
     font-weight: bold;
     font-size: 1.5em;
-    font-style: normal;
+    font-style: italic;
     text-decoration: none;
     color: pink;
 }
@@ -25,9 +26,9 @@ h1 {
 
 .button {
     display: inline-block;
-    padding: 10px;
+    padding: 18px;
     text-transform: uppercase;
     border: 1ps solid currentColor;
-    border-radius: 3px;
-    margin: 0;
+    border-radius: 100%;
+    margin: 40px 0;
 }
